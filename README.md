@@ -148,7 +148,6 @@ Go to **Windows Settings → Apps** and uninstall DragON. This removes the crede
 
 - **Website:** [www.techporch.com](https://www.techporch.com)
 - **Support:** [www.techporch.com/contact](https://www.techporch.com/contact)
-- **Full version:** [www.techporch.com/products](https://www.techporch.com/products)
 
 Upgrading unlocks all 5 themes, up to 8 drag sequences per login, and unlimited user enrollments.
 
