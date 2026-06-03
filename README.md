@@ -33,7 +33,7 @@ DragON turns the Windows lock screen into a visual puzzle. During setup you pick
 | Image themes | 2 (Animals, Landmarks) | 5 |
 | Trial period | 180 days | Unlimited |
 
-Upgrade at [www.techporch.com/products](https://www.techporch.com/products) to remove all restrictions.
+Upgrade at [www.techporch.com/tools](https://www.techporch.com/tools) to remove all restrictions.
 
 ---
 
