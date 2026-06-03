@@ -1,14 +1,7 @@
 # DragON — Windows Gesture Login
 ### Trial Version
 
-🚀 Now Available on the Microsoft Store
-DragON Windows Login Trial is now officially published on the Microsoft Store.
-
-👉 Download from Microsoft Store:  
-https://apps.microsoft.com/store/detail/XP9KQZ00TRPPDJ
-
-The MSI installers below remain available for advanced users, offline installs, and enterprise deployments.
-The Store version provides automatic updates and Microsoft‑verified installation.
+[![Download on the Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/store/detail/XP9KQZ00TRPPDJ)
 
 **DragON** is a Windows credential provider that replaces your password with a visual drag-and-drop gesture. Instead of typing, you authenticate by dragging icons across a themed image grid at the Windows login or lock screen.
 
