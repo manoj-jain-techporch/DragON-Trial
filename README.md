@@ -1,11 +1,13 @@
 # DragON — Windows Gesture Login
-### Trial Version
+### Community Release
 
 [![Download on the Microsoft Store](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/store/detail/XP9KQZ00TRPPDJ)
 
 **DragON** is a Windows credential provider that replaces your password with a visual drag-and-drop gesture. Instead of typing, you authenticate by dragging icons across a themed image grid at the Windows login or lock screen.
 
 It works alongside your existing sign-in methods — your password and PIN remain available at all times.
+
+DragON started as an internal experiment at Techporch while exploring alternative login flows for touch-enabled Windows devices. We found it genuinely useful and have made it available publicly. It is not part of our consulting services — just a small tool we're happy to share.
 
 > **Full documentation:** [www.techporch.com](https://www.techporch.com)
 
@@ -22,18 +24,18 @@ DragON turns the Windows lock screen into a visual puzzle. During setup you pick
 
 ---
 
-## Trial Version Limitations
+## Limitations
 
-> ⏱ The trial version is fully functional for **180 days** from installation with the following restrictions.
+The community release is fully functional — it supports 1 drag sequence and 1 enrolled user account. A 180-day usage period applies after installation.
 
-| Feature | Trial | Full Version |
+| Feature | Community Release | Full Version |
 |---|---|---|
 | Drag sequences per login | 1 | Up to 8 |
 | Enrolled user accounts | 1 | Unlimited |
 | Image themes | 2 (Animals, Landmarks) | 5 |
-| Trial period | 180 days | Unlimited |
+| Usage period | 180 days | Unlimited |
 
-Upgrade at [www.techporch.com/tools](https://www.techporch.com/tools) to remove all restrictions.
+A version with additional features is planned. See [www.techporch.com/tools](https://www.techporch.com/tools) for details.
 
 ---
 
@@ -85,7 +87,7 @@ Enrollment registers your drag sequence with DragON. You only need to do this on
 
 7. Click **Done**. Enrollment is complete. You can now use DragON to log in.
 
-> ⏱ **Trial:** Only 1 drag sequence is supported. The full version allows up to 8 sequences chained together for stronger security.
+> ⏱ **Note:** The community release supports 1 drag sequence. A planned full version will allow up to 8 sequences chained together.
 
 ---
 
@@ -146,13 +148,13 @@ Go to **Windows Settings → Apps** and uninstall DragON. This removes the crede
 
 ---
 
-## Support & Upgrade
+## Support
 
 - **Website:** [www.techporch.com](https://www.techporch.com)
 - **Support:** [www.techporch.com/contact](https://www.techporch.com/contact)
 
-Upgrading unlocks all 5 themes, up to 8 drag sequences per login, and unlimited user enrollments.
-
 ---
+
+*DragON is not part of Techporch's consulting services or commercial offerings. It is an internal tool made available as-is for community use, and is not representative of our consulting portfolio.*
 
 *Copyright &copy; Techporch. All rights reserved.*
